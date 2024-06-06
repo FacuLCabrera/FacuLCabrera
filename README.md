@@ -30,5 +30,5 @@
 <a href="mailto:faculcabrera@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=faculcabrera@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/Cabrerafacundolautaro/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/Cabrerafacundolautaro/"></a>
 &emsp;
