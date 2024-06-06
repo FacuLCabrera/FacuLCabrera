@@ -6,7 +6,7 @@
 <hr>
 
 <h1 align="center">Hi 👋, I'm Facundo Lautaro Cabrera</h1>
-<h3 align="center">A passionate Full-Stack Developer and Data Analytics . student 💻</h3>
+<h3 align="center">A Full-Stack Developer student and Data Analytics  💻</h3>
 
 </p>
 <h2 align="center">:exclamation: Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs :exclamation: </h2> 
